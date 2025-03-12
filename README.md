@@ -1,1 +1,1 @@
-# CS499-ePortfolio
+# CS499-ePortfolio: Lauren-Ann Javier
