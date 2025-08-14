@@ -101,6 +101,7 @@ My code review video presents a walkthrough of the original artifacts, identifie
 **Lauren-Ann Javier**  
 Southern New Hampshire University  
 Email: [laj92602@yahoo.com] (primary)
+
 School Email: [lauren-ann.javier@snhu.edu] (for school-related inquiries)
 
 
