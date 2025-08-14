@@ -74,7 +74,7 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 - Full-stack web development with Dash
 - Map and chart synchronization
 
-[View Artifact Narrative](CS499-ePortfolio/Databases/EnhancementThreeNarrative.md)  
+[View Artifact Narrative](Databases/EnhancementThreeNarrative.md)  
 
 
 ## Code Review Video
