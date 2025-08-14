@@ -5,13 +5,13 @@ Welcome to my CS 499 ePortfolio! This repository showcases my growth and enhance
 
 ## Table of Contents
 
-1. [Professional Self-Assessment]
-2. [Artifacts Overview]
-    - [Enhancement One: Software Design and Engineering]
-    - [Enhancement Two: Algorithms and Data Structure]
-    - [Enhancement Three: Databases]
-3. [Code Review Video]
-4. [Contact]
+1.  [Professional Self-Assessment](#professional-self-assessment)
+2. [Artifacts Overview](#artifacts-overview)
+   - [Enhancement One: Software Design and Engineering](#enhancement-one-software-design-and-engineering)
+   - [Enhancement Two: Algorithms and Data Structure](#enhancement-two-algorithms-and-data-structure)
+   - [Enhancement Three: Databases](#enhancement-three-databases)
+3. [Code Review Video](#code-review-video)
+4. [Contact](#contact)
 
 
 ## Professional Self-Assessment
@@ -26,7 +26,7 @@ Completing the Computer Science program at Southern New Hampshire University has
 
 Throughout the Capstone, I also worked on communication and collaboration skills. Creating clear narratives, detailed documentation, and a professional code review video allowed me to express my design decisions effectively.
 
-Enhancing these artifacts stregthened the importance of problem-solving, maintainable code, and secure practices. I developed a security-conscious approach through input validation and careful data handling, while debugging and testing taught me how to carefully repeat on complex systems.
+Enhancing these artifacts strengthened the importance of problem-solving, maintainable code, and secure practices. I developed a security-conscious approach through input validation and careful data handling, while debugging and testing taught me how to carefully repeat on complex systems.
 
 This ePortfolio represents not only the technical skills I have accomplished but also my readiness to contribute professionally in the software industry. It demonstrates my ability to incorporate multiple areas of computer science into practical solutions, communicate effectively, and continuously improve as a developer. I am confident that these experiences have prepared me to deliver value in any technology-driven environment and continue growing.  
 
@@ -52,7 +52,7 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 ### Enhancement Two: Algorithms and Data Structure
 
 **Artifact:** C++ OpenGL 3D Graphics Application  
-**Created:** December 2024 (Enahnced for CS 499)
+**Created:** December 2024 (Enhanced for CS 499)
 
 **Key Skills Demonstrated:**
 - Graphics pipeline management
