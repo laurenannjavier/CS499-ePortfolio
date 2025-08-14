@@ -60,7 +60,7 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 - Linear algebra and projection toggling
 - Algorithmic application of user input handling
 
-[View Artifact Narrative](CS499-ePortfolio/Algorithms_and_Data_Structure/Enhancement_Two_Narrative.md)  
+[View Artifact Narrative](CS499-ePortfolio/Algorithms_and_Data_Structure/EnhancementTwoNarrative.md)  
 
 
 ### Enhancement Three: Databases
@@ -74,7 +74,7 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 - Full-stack web development with Dash
 - Map and chart synchronization
 
-[View Artifact Narrative](CS499-ePortfolio/Databases/Enhancement_Three_Narrative.md)  
+[View Artifact Narrative](CS499-ePortfolio/Databases/EnhancementThreeNarrative.md)  
 
 
 ## Code Review Video
