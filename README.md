@@ -48,6 +48,8 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 
 [View Artifact Narrative](Software_Design_and_Engineering/Enhancement_One_Narrative.md)
 
+![Java](https://img.shields.io/badge/Language-Java-blue)
+![JUnit](https://img.shields.io/badge/Testing-JUnit5-orange)
 
 ### Enhancement Two: Algorithms and Data Structure
 
