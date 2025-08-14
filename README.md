@@ -46,7 +46,7 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 - Unit testing with JUnit 5
 - Professional-quality documentation
 
-[View Artifact Narrative](Software_Design_and_Engineering/Enhancement_Two_Narrative.md)  
+[View Artifact Narrative]([Software_Design_and_Engineering/Enhancement_Two_Narrative.md](https://github.com/laurenannjavier/CS499-ePortfolio/tree/f2cf348caf56bb5b79dc9d8c32a2c47f9561a7e9/Algorithms%20and%20Data%20Structure))  
 
 
 ### Enhancement Two: Algorithms and Data Structure
