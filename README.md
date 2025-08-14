@@ -46,7 +46,7 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 - Unit testing with JUnit 5
 - Professional-quality documentation
 
-[View Artifact Narrative](Software_Design_and_Engineering/EnhancementTwoNarrative.md)  
+[View Artifact Narrative](Software_Design_and_Engineering/Enhancement_Two_Narrative.md)  
 
 
 ### Enhancement Two: Algorithms and Data Structure
@@ -60,7 +60,7 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 - Linear algebra and projection toggling
 - Algorithmic application of user input handling
 
-[View Artifact README](CS499-ePortfolio/Algorithms and Data Structure/Enhancement Two Narrative)  
+[View Artifact Narrative](CS499-ePortfolio/Algorithms_and_Data_Structure/Enhancement_Two_Narrative.md)  
 
 
 ### Enhancement Three: Databases
@@ -74,14 +74,14 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 - Full-stack web development with Dash
 - Map and chart synchronization
 
-[View Artifact README](CS499-ePortfolio/Databases/Enhancement Three Narrative)  
+[View Artifact Narrative](CS499-ePortfolio/Databases/Enhancement_Three_Narrative.md)  
 
 
 ## Code Review Video
 
 My code review video presents a walkthrough of the original artifacts, identifies areas for enhancement, and explains the planned improvements across all three categories.  
 
-[Watch the Code Review Video](https://youtu.be/rmdByI7XCHk)
+[Watch my Code Review Video](https://youtu.be/rmdByI7XCHk)
 
 
 ## Contact
