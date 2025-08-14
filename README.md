@@ -46,7 +46,7 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 - Unit testing with JUnit 5
 - Professional-quality documentation
 
-[View Artifact README](CS499-ePortfolio/Software Design and Engineering/Enhancement One Narrative)  
+[View Artifact Narrative](Algorithms and Data Structure)  
 
 
 ### Enhancement Two: Algorithms and Data Structure
