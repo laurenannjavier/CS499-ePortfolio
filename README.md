@@ -46,10 +46,12 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 - Unit testing with JUnit 5
 - Professional-quality documentation
 
-[View Artifact Narrative](Software_Design_and_Engineering/Enhancement_One_Narrative.md)
-
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![JUnit](https://img.shields.io/badge/Testing-JUnit5-orange)
+
+[View Artifact Narrative](Software_Design_and_Engineering/Enhancement_One_Narrative.md)
+
+
 
 ### Enhancement Two: Algorithms and Data Structure
 
@@ -61,6 +63,10 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 - Event-driven programming and camera controls
 - Linear algebra and projection toggling
 - Algorithmic application of user input handling
+
+![C++](https://img.shields.io/badge/Language-C++-blue)
+![OpenGL](https://img.shields.io/badge/Tool-OpenGL-lightgrey)
+![GLFW](https://img.shields.io/badge/Library-GLFW-green)
 
 [View Artifact Narrative](Algorithms_and_Data_Structure/Enhancement_Two_Narrative.md)  
 
@@ -75,6 +81,10 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 - Interactive data filtering and visualization
 - Full-stack web development with Dash
 - Map and chart synchronization
+
+![Python](https://img.shields.io/badge/Language-Python-yellow)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+![Dash](https://img.shields.io/badge/Tool-Dash-blue)
 
 [View Artifact Narrative](Databases/Enhancement_Three_Narrative.md)  
 
