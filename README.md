@@ -88,8 +88,8 @@ My code review video presents a walkthrough of the original artifacts, identifie
 
 **Lauren-Ann Javier**  
 Southern New Hampshire University  
-Email: [laj92602@yahoo.com]
-School Email: [lauren-ann.javier@snhu.edu]
+Email: [laj92602@yahoo.com] (primary)
+School Email: [lauren-ann.javier@snhu.edu] (for school-related inquiries)
 
 
 *Thank you for reviewing my CS 499 ePortfolio! Each artifact reflects my dedication to professional-quality software development, algorithmic problem-solving, and database management!*
