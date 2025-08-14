@@ -46,7 +46,7 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 - Unit testing with JUnit 5
 - Professional-quality documentation
 
-[View Artifact Narrative](Software_Design_and_Engineering/Enhancement_One_Narrative.md))  
+[View Artifact Narrative](Software_Design_and_Engineering/Enhancement_One_Narrative.md)
 
 
 ### Enhancement Two: Algorithms and Data Structure
