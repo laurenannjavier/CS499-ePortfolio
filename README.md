@@ -52,7 +52,7 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 ### Enhancement Two: Algorithms and Data Structure
 
 **Artifact:** C++ OpenGL 3D Graphics Application  
-**Created:** December 2024  
+**Created:** December 2024 (Enahnced for CS 499)
 
 **Key Skills Demonstrated:**
 - Graphics pipeline management
@@ -66,7 +66,7 @@ This ePortfolio contains three enhanced artifacts that demonstrate my skills in 
 ### Enhancement Three: Databases
 
 **Artifact:** Interactive Dashboard Web Application (MongoDB & Dash)  
-**Created:** CS-340  
+**Created:** CS-340 (Enhanced for CS 499)
 
 **Key Skills Demonstrated:**
 - Database integration and CRUD operations
@@ -92,4 +92,4 @@ Email: [laj92602@yahoo.com]
 School Email: [lauren-ann.javier@snhu.edu]
 
 
-*Thank you for reviewing my CS 499 ePortfolio! Each artifact reflects my dedication to professional-quality software development, algorithmic problem-solving, and database management.*
+*Thank you for reviewing my CS 499 ePortfolio! Each artifact reflects my dedication to professional-quality software development, algorithmic problem-solving, and database management!*
